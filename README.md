@@ -1,7 +1,5 @@
-# Simple CTF
-Simple Cryptography CTF Site Source code
+Series of Web based CTF challenges.
 
-This is the source code for a simple cryptography ctf. There's a hidden message divided into 4 peices and spread across the site. 
-You need to find them and then decrypt them.
+I will Add detailed constraction on How to set up the challenges and how to solve them.
 
-You can host it with your favourite web server : Apache, python web server module etc.
+Thanks
